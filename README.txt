@@ -1,3 +1,4 @@
 Hello, Git
-added one more line!
+sdfasdfasdf
 CHANGED README
+conflict line
