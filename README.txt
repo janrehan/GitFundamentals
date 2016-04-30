@@ -4,3 +4,4 @@ CHANGED README
 one like adde
 some new linen for stash
 one more line
+conflict line
